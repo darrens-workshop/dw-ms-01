@@ -1,2 +1,2 @@
-# DW-MS-01
-DW-MS-01 Multi-Sensor
+# dw-ms-01
+dw-ms-01 Multi-Sensor
